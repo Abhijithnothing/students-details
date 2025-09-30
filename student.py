@@ -1,0 +1,8 @@
+name=input("ENter student name: ")
+age=int(input("Enter student age: "))
+USN=int(input("Enter student roll number: "))
+course=input("Enter student course: ")
+print("Student name is: ",name)
+print("Student age is: ",age)
+print("Student roll number is: ",USN)
+print("Student course is: ",course)
